@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Save Activity State Example</string>
+    <string name="info">Type some text to edit text and rotate device. OnCreate will be called again and edit text will be drawn again with default text. Use switch to save data to saved instance data bundle and it will be read again at onCreate method.</string>
+</resources>
